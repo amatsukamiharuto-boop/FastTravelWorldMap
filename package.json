@@ -1,0 +1,9 @@
+{
+  "name": "fast-travel-world-map",
+  "version": "1.0.0",
+  "description": "Fast travel and world map plugin for RPG Maker MZ",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "license": "MIT"
+}
